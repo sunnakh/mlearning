@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ml/            # <-- your local venv name in the screenshot
+
+# Binaries / models / archives
+*.dll
+*.pyd
+*.lib
+*.h5
+*.pt
+*.pth
+*.onnx
+*.zip
+*.tar
+*.gz
